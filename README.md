@@ -14,7 +14,7 @@ O objetivo é criar uma aplicação utilizando **Express.js** capaz de receber d
 
 ## 🖥️ Interface
 
-![Tela da Calculadora]("C:\Users\JoãoPedroOliveiraAfo\Pictures\Screenshots\Captura de tela 2026-06-26 082712.png")
+![Tela da Calculadora](/fotos/Captura%20de%20tela%202026-06-26%20082712.png)
 
 ---
 
